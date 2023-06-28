@@ -1,0 +1,8 @@
+{
+  "name": "Settings Example",
+  "author": "ApexLite",
+  "version": "1.0.0",
+  "description": "This is an example use case of SettingsBox",
+  "targetGameBuild": 522,
+  "iconPath": "icon.png"
+}
